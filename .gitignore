@@ -1,0 +1,3 @@
+lib/libGit.py
+*.pyc
+*.log
